@@ -222,3 +222,7 @@ https://github.com/Riisshi/ecommerce-backend
 
 Deployed Application:
 https://ecommerce-backend-vw2y.onrender.com/
+
+<img width="1680" height="1002" alt="indexing-mongodb" src="https://github.com/user-attachments/assets/f79281e1-7c23-47bb-b48c-e35e4fdb7e90" />
+
+
