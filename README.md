@@ -218,7 +218,7 @@ Production-ready backend architecture
 🔗 Submission Links
 
 GitHub Repository:
-<your-github-repo-link>
+https://github.com/Riisshi/ecommerce-backend
 
 Deployed Application:
-<your-deployed-app-link>
+https://ecommerce-backend-vw2y.onrender.com/
