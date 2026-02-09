@@ -6,6 +6,13 @@ app.post(
   require("./controllers/webhook.controller").handleStripeWebhook
 );
 app.use(express.json());
+app.get("/", (req, res) => {
+  res.status(200).json({
+    message: "E-Commerce Backend API is running",
+    status: "OK",
+    timestamp: new Date().toISOString()
+  });
+});
 
 app.use("/api/auth", require("./routes/auth.routes"));
 app.use("/api/products", require("./routes/product.routes"));
